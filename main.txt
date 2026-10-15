@@ -1,7 +1,7 @@
 Header
-Online Login Code boilerplate
+Online Login Code boilerplate BUG Fixed
 Online Login Code written
 Online Login Page Tested
-App Bar
+App Bar Enchanced
 Main Page
 Footer
